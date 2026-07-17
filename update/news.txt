@@ -1,6 +1,6 @@
 {
-  enabled = false,
-  title = "",
-  text = "",
+  enabled = true,
+  title = "TESTING",
+  text = "right now testing all pages",
   type = "info"
 }
