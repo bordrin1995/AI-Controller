@@ -1,9 +1,9 @@
 {
     {
-        version = "2.64",
+        version = "2.65",
         channel = "stable",
         changes = {
-            "testing download system",
+            "Updating *UPDATE* panel",
         }
     },
 
