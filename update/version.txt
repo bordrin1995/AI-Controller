@@ -2,13 +2,13 @@
   schema = 1,
 
   stable = {
-    version = "2.64",
-    tag = "v2.64",
-    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.64/AI_Controller.zip",
-    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.64",
+    version = "2.65",
+    tag = "v2.65",
+    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.65/AI_Controller.zip",
+    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.65",
 
     changes = {
-      "Skuska downlaod systemu",
+      "Update *UPDATE* panel",
     }
   },
 
