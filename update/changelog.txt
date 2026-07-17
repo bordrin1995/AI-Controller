@@ -1,5 +1,13 @@
 {
     {
+        version = "2.66",
+        channel = "stable",
+        changes = {
+            "Updating *UPDATE* panel + instructions",
+        }
+    },
+
+    {
         version = "2.65",
         channel = "stable",
         changes = {
