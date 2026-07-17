@@ -1,6 +1,6 @@
 {
   enabled = true,
-  title = "TESTING",
-  text = "right now testing all pages",
+  title = "AI Controller BETA",
+  text = "right now testing systems",
   type = "info"
 }
