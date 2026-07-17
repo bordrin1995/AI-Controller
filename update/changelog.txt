@@ -1,12 +1,20 @@
 {
-  {
-    version = "2.59",
-    channel = "stable",
-    changes = {
-      "Restart Season sanitizer improvements",
-      "Low Performance PIT fixed",
-      "UI servicing fix",
-      "Recovery improvements"
+    {
+        version = "2.65",
+        channel = "stable",
+        changes = {
+            "testing download system",
+        }
+    },
+
+    {
+        version = "2.59",
+        channel = "stable",
+        changes = {
+            "Restart Season sanitizer improvements",
+            "Low Performance PIT fixed",
+            "UI servicing fix",
+            "Recovery improvements"
+        }
     }
-  }
 }
