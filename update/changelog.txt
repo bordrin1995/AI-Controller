@@ -1,0 +1,12 @@
+{
+  {
+    version = "2.59",
+    channel = "stable",
+    changes = {
+      "Restart Season sanitizer improvements",
+      "Low Performance PIT fixed",
+      "UI servicing fix",
+      "Recovery improvements"
+    }
+  }
+}
