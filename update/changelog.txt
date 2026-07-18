@@ -1,11 +1,14 @@
 {
     {
-        version = "2.67",
+        version = "2.68",
         channel = "stable",
         changes = 
         {
-            "Complete translation of the debug log and update section for all languages.",
-            "Update check adjustment: the update check now runs automatically when the game starts and when the Updates section is opened.",
+            "Improved LOW PERFORMANCE detection during close battles.",
+            "Added battle/traffic filtering to prevent false LOW PERFORMANCE pit stops.",
+            "Added reliable native AI pit exit handover after completed service.",
+            "Added automatic pit exit handover verification and safe retry system.",
+            "Improved overall pit exit stability and reliability.",
         }
     },
     {
