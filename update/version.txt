@@ -2,13 +2,13 @@
   schema = 1,
 
   stable = {
-    version = "2.66",
-    tag = "v2.66",
-    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.66/AI_Controller.zip",
-    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.66",
+    version = "2.67",
+    tag = "v2.67",
+    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.67/AI_Controller.zip",
+    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.67",
 
     changes = {
-      "Update *UPDATE* panel + instruction",
+      "Complete translation of the debug log and update section for all languages.",
     }
   },
 
