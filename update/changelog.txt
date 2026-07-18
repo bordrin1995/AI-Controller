@@ -1,5 +1,12 @@
 {
     {
+        version = "2.67",
+        channel = "stable",
+        changes = {
+            "Complete translation of the debug log and update section for all languages.",
+        }
+    },
+    {
         version = "2.66",
         channel = "stable",
         changes = {
