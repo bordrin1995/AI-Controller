@@ -2,14 +2,17 @@
   schema = 1,
 
   stable = {
-    version = "2.67",
-    tag = "v2.67",
-    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.67/AI_Controller.zip",
-    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.67",
+    version = "2.68",
+    tag = "v2.68",
+    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.68/AI_Controller.zip",
+    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.68",
 
     changes = {
-      "Complete translation of the debug log and update section for all languages.",
-      "Update check adjustment: the update check now runs automatically when the game starts and when the Updates section is opened.",
+      "Improved LOW PERFORMANCE detection during close battles.",
+      "Added battle/traffic filtering to prevent false LOW PERFORMANCE pit stops.",
+     "Added reliable native AI pit exit handover after completed service.",
+     "Added automatic pit exit handover verification and safe retry system.",
+     "Improved overall pit exit stability and reliability.",
     }
   },
 
