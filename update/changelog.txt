@@ -2,16 +2,17 @@
     {
         version = "2.67",
         channel = "stable",
-        changes = {
+        changes = 
+        {
             "Complete translation of the debug log and update section for all languages.",
-            "Update check adjustment: the update check now runs automatically when the game",
-            "                             starts and when the Update section is opened.",
-}
+            "Update check adjustment: the update check now runs automatically when the game starts and when the Updates section is opened.",
+        }
     },
     {
         version = "2.66",
         channel = "stable",
-        changes = {
+        changes = 
+        {
             "Updating *UPDATE* panel + instructions",
         }
     },
@@ -19,7 +20,8 @@
     {
         version = "2.65",
         channel = "stable",
-        changes = {
+        changes = 
+        {
             "Updating *UPDATE* panel",
         }
     },
@@ -27,7 +29,8 @@
     {
         version = "2.59",
         channel = "stable",
-        changes = {
+        changes = 
+        {
             "Restart Season sanitizer improvements",
             "Low Performance PIT fixed",
             "UI servicing fix",
