@@ -9,6 +9,15 @@
         }
     },
     {
+        version = "2.67",
+        channel = "stable",
+        changes = 
+        {
+            "Complete translation of the debug log and update section for all languages.",
+            "Update check adjustment: the update check now runs automatically when the game starts and when the Updates section is opened.",
+        }
+    },
+    {
         version = "2.66",
         channel = "stable",
         changes = 
