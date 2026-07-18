@@ -4,8 +4,7 @@
         channel = "stable",
         changes = {
             "Complete translation of the debug log and update section for all languages.",
-            "Update check adjustment: the update check now runs automatically when the game" \n
-            "starts and when the Updates section is opened.",
+            "Update check adjustment: the update check now runs automatically when the game\n starts and when the Update section is opened.",
         }
     },
     {
