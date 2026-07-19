@@ -1,6 +1,6 @@
 {
   enabled = true,
   title = "AI Controller BETA",
-  text = "I am currently testing the systems and adding updates every day.",
+  text = "I am currently testing the systems and adding updates every day. I haven't tested GT 3 or F1 yet.",
   type = "info"
 }
