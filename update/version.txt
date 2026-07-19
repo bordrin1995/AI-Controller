@@ -17,7 +17,7 @@
       "Recovery starts only if no nearby AI or physical obstacle is detected.",
       "Added movement-progress validation to prevent false stuck detection.",
       "Existing Recovery and Reverse Recovery systems remain unchanged.",
-      "Fixed the native pit-exit handover: the pit request now stays TRUE after service, AC takes control to steer the car out of the pit box, and the request is released only after the car has physically exited        the pit box.",
+      "Fixed the native pit-exit handover: the pit request now stays TRUE after service, AC takes control to steer the car out of the pit box, and the request is released only after the car has physically exited the pit box.",
       "Improved handover reliability by disabling Recovery during the entire pit-exit process, removing overlap blocking, refining AC control detection, and adding detailed native pit-exit diagnostic logging.",
     }
   },
