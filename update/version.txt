@@ -17,6 +17,9 @@
       "Recovery starts only if no nearby AI or physical obstacle is detected.",
       "Added movement-progress validation to prevent false stuck detection.",
       "Existing Recovery and Reverse Recovery systems remain unchanged.",
+      "Updated the requested settings as defaults.",
+      "Restart Season now reapplies the current random/full starting fuel settings before the cars move.",
+      "Improved native pit exit handover. AI now remains under Assetto Corsa pit control until safely exiting the pit box.",
     }
   },
 
