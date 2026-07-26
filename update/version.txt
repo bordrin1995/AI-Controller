@@ -22,7 +22,7 @@
       "Improved native pit exit handover. AI now remains under Assetto Corsa pit control until safely exiting the pit box.",
       "Advanced settings have changed UI.",
       "Recovery stances optimalization.",
-      "Changed weather pit logic",
+      "Changed weather pit logic.",
       "Added new options on strategy settings. (new tyres and damage sliders)",
     }
   },
