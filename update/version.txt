@@ -23,7 +23,7 @@
       "Advanced settings have changed UI.",
       "Recovery stances optimalization.",
       "Changed weather pit logic. (correct recognition: S/M/H, SS, US, ST , SM , WET)",
-      "Added new options on strategy settings. (new tyres and damage sliders)",
+      "Added new options on strategy settings. (new tyres and damage pitstop sliders)",
     }
   },
 
