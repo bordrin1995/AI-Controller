@@ -9,6 +9,7 @@
              "*SAVE* stance adjustment.",
              "Adding *SAVE* settings to the driver settings section.",
              "Optimizing the *Generate plans* function.",
+             "Fixed damage calculation upon pit exit. AI is now immune for 5 seconds after leaving the pits.",
         }
     },
     {
