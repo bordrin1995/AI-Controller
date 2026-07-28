@@ -23,22 +23,10 @@
 
   beta = {
     enabled = true,
-    version = "2.69",
-    tag = "v2.69",
-    download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.69/AI_Controller.zip",
-    release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.69",
-    changes = {
-      "Modified system recovery.",
-      "Adding *Recovery settings* to the settings section.",
-      "*SAVE* stance adjustment.",
-      "Adding *SAVE* settings to the driver settings section.",
-      "Optimizing the *Generate plans* function.",
-      "Fixed damage calculation upon pit exit. AI is now immune for 5 seconds after leaving the pits.",
-      "Optimizing the PIT smart strategy to adapt to all PIT reasons.",
-      "Changed UI colours on settings.",
-      "*SAVE* stance optimalization",
-      "Changed *MAX FUEL,FUEL* settings.",
-    }
+  },
+
+  fullVersion = {
+    enabled = false,
   },
 
   message = {
