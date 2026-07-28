@@ -23,8 +23,8 @@
 
   beta = {
     enabled = true,
-    version = "2.69",
-    tag = "v2.69",
+    version = "2.70",
+    tag = "v2.70",
     download = "https://github.com/bordrin1995/AI-Controller/releases/download/v2.69/AI_Controller.zip",
     release_page = "https://github.com/bordrin1995/AI-Controller/releases/tag/v2.69",
     changes = {}
