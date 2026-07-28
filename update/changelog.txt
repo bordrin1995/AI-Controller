@@ -1,5 +1,24 @@
 {
     {
+        version = "2.70",
+        channel = "stable",
+        changes = 
+        {
+              "Improved FUEL and MAX_FUEL settings, backups and automatic session handling.",
+              "Added mutually exclusive Owner FUEL and Specific FUEL modes.",
+              "Added global restoration of all modified car.ini files.",
+              "Improved Recovery and limited Reverse Recovery distance to 4 metres.",
+              "Improved SMART PIT, SAVE and pit-state handling.",
+              "Redesigned the update system with BETA and FULLVERSION status support.",
+              "Added server messages and forced fresh data loading with *Check now*.",
+              "Enabled automatic update checks by default and simplified update settings.",
+              "Improved responsive Settings UI and completed missing translations.",
+              "Improved Bug Report validation, error handling and request timeout.",
+              "Fixed version labels for releases older than v2.70.",
+              "Cleaned up duplicated and obsolete code.",
+        }
+    },
+    {
         version = "2.69",
         channel = "stable",
         changes = 
