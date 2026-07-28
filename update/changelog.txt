@@ -12,6 +12,8 @@
              "Fixed damage calculation upon pit exit. AI is now immune for 5 seconds after leaving the pits.",
              "Optimizing the PIT smart strategy to adapt to all PIT reasons.",
              "Changed UI colours on settings.",
+             "*SAVE* stance optimalization",
+             "Changed *MAX FUEL,FUEL* settings.",
         }
     },
     {
