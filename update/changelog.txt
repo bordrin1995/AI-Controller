@@ -24,6 +24,7 @@
       "Added translated descriptions for all Rules settings.",
       "Changed the default General fuel margin to 1.2 laps.",
       "Removed obsolete manual *Pit when* tyre-selection settings.",
+      "Adding *Risk* to the Attack stance. New slider in the Driver settings section.",
       "Cleaned up duplicated and obsolete code.",
     }
   },
